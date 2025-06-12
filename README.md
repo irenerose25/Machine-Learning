@@ -1,3 +1,5 @@
+Obseity Prediction
+
 🎯 Purpose
 To build a machine learning model that can accurately predict an individual’s obesity level based on their lifestyle habits and physical attributes. This supports early risk detection, personalized health recommendations, and promotes preventive healthcare decisions.
 
